@@ -1,6 +1,6 @@
 # c_elab_srm
 
-<div style="background-color: #FFFF00">#include <stdio.h>
+#include <stdio.h>
 int main()
 {
     int a,b,c,d;
@@ -12,4 +12,4 @@ int main()
     scanf("Enter Numbers for Division \n%f\n%f\n%f\n%f",&e,&f,&g,&h);
     printf("\nDivision%0.2f",(e/f)/(g/h));
     return 0;
-}</div>
+}
