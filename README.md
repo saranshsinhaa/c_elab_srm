@@ -13,3 +13,7 @@ int main()
     printf("\nDivision%0.2f",(e/f)/(g/h));
     return 0;
 }
+
+
+
+
